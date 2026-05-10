@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+uploads/**/*.jpg
+uploads/**/*.png
+uploads/**/*.webp
+uploads/**/*.gif
+!uploads/**/.gitkeep
+*.log
+.DS_Store
+coverage/
